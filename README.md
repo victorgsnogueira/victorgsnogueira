@@ -1,5 +1,3 @@
-<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/752eaa2e-201c-4c7f-b167-cf3297f44c5e" />![](https://komarev.com/ghpvc/?username=victorgsnogueira&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software escaláveis.
