@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=victorgsnogueira&color=006bed)
+
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software escaláveis.
